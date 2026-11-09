@@ -7,10 +7,7 @@ window.WEDDING_CONFIG = {
 
 document.addEventListener('DOMContentLoaded', function () {
   const mapButton = document.querySelector('.venue-bottom a');
-
   if (mapButton) {
     mapButton.href = window.WEDDING_CONFIG.venueMapUrl;
-    mapButton.target = '_blank';
-    mapButton.rel = 'noopener noreferrer';
   }
 });
