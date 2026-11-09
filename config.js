@@ -15,3 +15,4 @@ document.addEventListener('DOMContentLoaded', function () {
     mapButton.rel = 'noopener noreferrer';
   }
 });
+https://script.google.com/macros/s/AKfycbxwxrnzlpkt5kRllz0ReADvh88p_mIg0CJeDH6cPo6kEt2qxSPYgSM3x5By3d5-zlFvIg/exec
